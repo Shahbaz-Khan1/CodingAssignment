@@ -9,7 +9,7 @@ public class ArrayShuffling {
 	    public static void shuffleArray(int[] array) {
 	        int n = array.length;
 	        Random random = new Random();
-            
+            //here random is to shuffle the array
 	        for (int i = n - 1; i > 0; i--) {
 	        	int j = random.nextInt(i+1);
 	            // Swap array[i] and array[j]
