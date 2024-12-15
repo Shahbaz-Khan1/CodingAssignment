@@ -10,7 +10,7 @@ public class ArrayShuffling {
 	        int n = array.length;
 	        Random random = new Random();
           
-		    
+		    System.out.print("hello");
             //here random is to shuffle the array
 	        for (int i = n - 1; i > 0; i--) {
 	        	int j = random.nextInt(i+1);
