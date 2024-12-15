@@ -1,0 +1,99 @@
+[33mcommit 7f341f2273c3b1c021819848f8c37b7e66cb2b34[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sun Dec 15 18:30:25 2024 +0530
+
+    Update ArrayShuffling.java
+
+[33mcommit 34ad9ba5105431a6d20f9462f59c09a3dd17c338[m
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sun Dec 15 18:28:33 2024 +0530
+
+    Update ArrayShuffling.java
+
+[33mcommit c9d656533bd6f4a4515673730535f16812a432a3[m
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sun Dec 15 17:47:12 2024 +0530
+
+    Update ArrayShuffling.java
+
+[33mcommit 4f582addbfe37aff6b08b826bdc750df4b6cc15d[m
+Merge: 1beab15 eaf739e
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sun Oct 22 20:01:30 2023 +0530
+
+    Merge pull request #3 from Shahbaz-Khan1/Development
+    
+    Development
+
+[33mcommit eaf739ef81c40a42789558ff2699dddbd6cd9c4f[m[33m ([m[1;31morigin/Development[m[33m)[m
+Author: Md Shahbaz Khan <shahbazkhan85076@gmail.com>
+Date:   Sun Oct 22 19:57:01 2023 +0530
+
+    Simple Calculator
+
+[33mcommit 56e1969862068d2bacb213d789ac18a5630582fa[m
+Author: Md Shahbaz Khan <shahbazkhan85076@gmail.com>
+Date:   Sun Oct 22 16:13:20 2023 +0530
+
+    java program that shuffle an array
+
+[33mcommit a765d2778d2dbe80f022ca1722222456961aa0dd[m
+Merge: 4d89fa1 6f6e0be
+Author: Md Shahbaz Khan <shahbazkhan85076@gmail.com>
+Date:   Sun Oct 22 15:53:39 2023 +0530
+
+    Merge branch 'Development' of https://github.com/Shahbaz-Khan1/CodingAssignment into Development
+
+[33mcommit 1beab1558d22fd72731bc5883ca1deedde31f138[m
+Merge: e8f17ec 6f6e0be
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sun Oct 22 15:51:28 2023 +0530
+
+    Merge pull request #2 from Shahbaz-Khan1/Development
+    
+    Development
+
+[33mcommit 4d89fa1d16c644cfef470f0f4aa134b9d42cb7c1[m
+Author: Md Shahbaz Khan <shahbazkhan85076@gmail.com>
+Date:   Sun Oct 22 15:02:48 2023 +0530
+
+    JavaAssignment
+
+[33mcommit 6f6e0becde0a055810db6b6998015681f0e708ec[m
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sun Oct 22 14:51:12 2023 +0530
+
+    Update Pangram.java
+
+[33mcommit 1ebac5a864d3bd9e338f7755e3a6deb2ddf9e210[m
+Author: Md Shahbaz Khan <shahbazkhan85076@gmail.com>
+Date:   Sun Oct 22 14:43:47 2023 +0530
+
+    JavaAssignment
+
+[33mcommit e8f17ecc060b4bcca8256cfd9baf496109c80c38[m
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sun Oct 22 14:25:47 2023 +0530
+
+    Update ReverseOfString.js
+
+[33mcommit 3bb3cbd42481e7cb95b2bd38fedaeb65385bbedf[m
+Merge: 565ecd7 f99d1aa
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sun Oct 22 14:24:26 2023 +0530
+
+    Merge pull request #1 from Shahbaz-Khan1/Development
+    
+    javaScriptAssignment
+
+[33mcommit f99d1aa01c87b99fe7f592adf8d1d8af7344cb25[m
+Author: Md Shahbaz Khan <shahbazkhan85076@gmail.com>
+Date:   Sun Oct 22 14:16:42 2023 +0530
+
+    javaScriptAssignment
+
+[33mcommit 565ecd7565333b58345db669f4cd3afde5f29e72[m
+Author: Shahbaz-Khan1 <108607099+Shahbaz-Khan1@users.noreply.github.com>
+Date:   Sat Oct 21 15:47:28 2023 +0530
+
+    Initial commit
